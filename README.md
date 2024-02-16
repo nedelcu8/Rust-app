@@ -1,1 +1,1 @@
- My python app
+ My rust app
